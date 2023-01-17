@@ -1,0 +1,185 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.white1{
+    width:252px;
+    background-color: white;
+    color:red;
+    height:107px;
+
+    border-width: 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border-color: black;
+    border-style: inset;
+    position: absolute;
+}
+   .blue1{
+    background-color: rgb(18, 18, 209);
+    height:107px;
+    width: 600px;
+    left: 270px;
+
+    border-width: 10px;
+    border-right: 0px;
+    border-top: 0px;
+    border-color: black;
+    border-style: inset;
+   
+    position: absolute;
+  }
+   .white2{
+    background-color: white;
+    height:446px;
+    width: 252px;
+    top: 124px;
+
+    border-width: 10px;
+    border-left: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+
+  } 
+   .blue2{
+    background-color: blue;
+    height:446px;
+    width: 600px;
+    top: 124px;
+    left: 270px;
+
+    border-width: 10px;
+    border-right: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .red{
+    background-color: red;
+    height:250px;
+    width: 125px;
+    top: 590px;
+
+    border-width: 10px;
+    border-left: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .black{
+    background-color: black;
+    height:250px;
+    width: 110px;
+    top: 590px;
+    left:140px;
+ 
+    border-width: 10px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .white3{
+    background-color: white;
+    height:250px;
+    width: 300px;
+    top: 590px;
+    left:270px;
+ 
+    border-width: 10px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .white4{
+    background-color: white;
+    height:250px;
+    width: 180px;
+    top: 590px;
+    left:590px;
+ 
+    border-width: 10px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .white5{
+    background-color: white;
+    height:250px;
+    width: 80px;
+    top: 590px;
+    left:790px;
+ 
+    border-width: 10px;
+    border-right: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .white6{
+    background-color: white;
+    height:180px;
+    width: 572px;
+    top: 860px;
+    
+    border-width: 10px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .yellow{
+    background-color: yellow;
+    height:180px;
+    width: 180px;
+    top: 860px;
+    left:590px;
+ 
+    border-width: 10px;
+    border-bottom: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
+  .white7{
+    background-color: white;
+    height:180px;
+    width: 80px;
+    top: 860px;
+    left:790px;
+ 
+    border-width: 10px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-color: black;
+    border-style: inset;
+    
+    position: absolute;
+    
+
+  }   
